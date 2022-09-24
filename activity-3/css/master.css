@@ -1,0 +1,49 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+}
+
+h1, h2 {
+    color: grey;
+    background-color:#f3f3ec
+}
+
+h3 {color: rgba(65, 112, 173, 0.651)}
+
+h1,h2,header, figcaption {text-align: center;}
+
+footer p {
+    text-align: center;
+    font-size: small;
+}
+
+img {
+   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
+
+figcaption span {
+    font-size: .85em;
+    color: hsla(214, 45%, 47%, 0.651);
+}
+
+p#product-description{
+    margin: 20px 0 20px 0;
+    text-align: justify;
+}
+
+.indented { padding-left: 300pt; padding-right: 300pt; }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+
+
