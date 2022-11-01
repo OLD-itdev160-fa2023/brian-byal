@@ -1,0 +1,25 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: auto 30px;
+    color: #7c81ff;
+}
+
+ul {
+    margin: 0;
+}
+
+li {
+    padding: 5px;
+}
+
+#todo-list-container {
+    margin-top: 20px;
+}
+
+#completed-list {
+    list-style-type: 
+}
+
+#completed-list li {
+    text-decoration: line-through;
+}
